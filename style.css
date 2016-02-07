@@ -73,6 +73,18 @@ footer {
   font-size: 20px;
 }
 
+.byline {
+
+}
+
+.button {
+  background-color: rgb(188, 122, 88);;
+  border: none;
+  text-align: center;
+  height: 71px;
+  width: 142px;
+}
+
 .footerhr {
 }
 
