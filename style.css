@@ -1,1 +1,61 @@
+header {
 
+}
+
+h1 {
+
+}
+
+p {
+  font-family: 'Lora', serif;
+}
+
+footer {
+
+}
+
+.oswald_700 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+}
+
+.oswald_300 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
+
+.yellowtail {
+  font-family: 'Yellowtail', cursive;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.header_img_left {
+
+}
+
+.header_img_right {
+
+}
+
+.subHead {
+
+}
+
+.ingredients {
+  font-family: 'Patrick Hand', cursive;
+}
+
+.footerhr {
+
+}
+
+.footertxt {
+
+}
+
+#delicious_sub {
+
+}
