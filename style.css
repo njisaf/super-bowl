@@ -9,7 +9,8 @@ header {
 }
 
 h1 {
-
+  font-size: 2.5em;
+  margin-top: 20px;
 }
 
 p {
@@ -27,11 +28,16 @@ footer {
 .oswald_700 {
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  height: 55px;
 }
 
 .oswald_300 {
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
+  font-size: 1em;
+  margin: 0px;
 }
 
 .yellowtail {
@@ -51,14 +57,12 @@ footer {
   padding-top: 25px;
 }
 
-.subHead {
-
-}
-
-
 .backslashRule {
   color: grey;
   width: 100%;
+  font-size: .6em;
+  letter-spacing: -3.5px;
+  padding: 25px 0px;
 }
 
 .ingredients_box {
@@ -114,4 +118,22 @@ footer {
 
 #delicious_sub {
 
+}
+
+.grey {
+  color: grey;
+}
+
+.displayFlex {
+  display: flex;
+}
+
+.articleSubTitle {
+  margin: 0;
+  font-size: .8em;
+  letter-spacing: 1px;
+}
+
+.print {
+  padding-left: 5px;
 }
