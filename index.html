@@ -3,19 +3,19 @@
   <head>
     <meta charset="utf-8">
     <title>Delicious</title>
-    <link href='https://fonts.googleapis.com/css?family=Oswald:700|Yellowtail|Lora|Patrick+Hand' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Oswald:700,300|Yellowtail|Lora|Patrick+Hand' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <header>
       <figure class="header">
         <img src="images/logo.png" alt="" />
-        <p>
-          <h1>Delicious</h1>
-          <h2>The Best Food Blog on the Web.</h2>
-        </p>
+        <div>
+          <h1 class="yellowtail">Delicious</h1>
+          <h2 class="oswald_300 uppercase" id="delicious_sub">The Best Food Blog on the Web.</h2>
+        </div>
       </figure>
-      <div class="header">
+      <div class="header_img_left">
         <img src="images/fb-icon.png" alt="">
         <img src="images/twit-icon.png" alt="">
         <img src="images/gp-icon.png" alt="">
@@ -23,7 +23,7 @@
         <img src="images/flic-icon.png" alt="">
         <img src="images/pint-icon.png" alt="">
       </div>
-      <div class="header">
+      <div class="header_img_right">
         <img src="images/rss-icon.png" alt="">
         <img src="images/mail-icon.png" alt="">
       </div>
@@ -31,16 +31,17 @@
     <main>
       <section>
         <article>
-          <h1>Chocolate Pizza</h1>
-          <p class="subHead">
-            <h2>Post Date</h2>
-          </p>
-          <p class="subHead">
-            <img src="" alt="">
-          </p>
+          <h1 class="oswald_700">Chocolate Pizza</h1>
+          <p class="subHead uppercase">
+          <div>
+            <h2 class="oswald_300 uppercase">Posted on 15 Dec 2015 / Desserts</h2>
+          </div>
+          <div>
+            <img src="images/print-icon.png" alt="print icon">
+            <h2 class="oswald_300 uppercase">Print</h2>
+          </div>
           <figure>
-            <p>Print</p>
-            <img src="" alt="">
+            <img src="images/choco-pizza.png" alt="Chocolate Pizza">
           </figure>
           <p>
             For the fig-swirl: Melt butter over medium heat in a saucepan. Add brown sugar and stir to dissolve. Halve all of the figs and toss in the saucepan with water and lemon juice. Good over medium heat, stirring frequently, until you have a chunky-jammy mixture. Add salt with one or two stirs, set aside and let cool completely.
@@ -77,8 +78,10 @@
           <img src="images/van-pic.png" alt="">
         </div>
         <div>
-          <h2></h2>
-          <p></p>
+          <h2>Vanessa Stevenson</h2>
+          <p>
+            Food enthusiast, photography fan. Add a pinch of raw foodism and that's pretty much who I am.
+          </p>
         </div>
         <form action="">
           <button>share recipe</button>
