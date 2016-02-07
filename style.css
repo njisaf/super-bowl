@@ -39,11 +39,12 @@ footer {
 }
 
 .header_img_left {
-
+  padding-top: 25px;
 }
 
 .header_img_right {
   padding-left: 10px;
+  padding-top: 25px;
 }
 
 .subHead {
@@ -94,7 +95,7 @@ footer {
 
 #logoTxt {
   margin: 0px;
-  padding-left: 10px;
+  padding-left: 6px;
   padding-bottom: 2px;
   font-size: 2.5em;
   height: 45px;
@@ -103,7 +104,7 @@ footer {
 #logoSlogan {
   margin: 0px;
   font-size: 0.60em;
-  padding-left: 15px;
+  padding-left: 11px;
   letter-spacing: 2px;
 }
 
