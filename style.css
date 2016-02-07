@@ -1,3 +1,6 @@
+body {
+  margin-left: 200px;
+}
 header {
 
 }
@@ -46,6 +49,12 @@ footer {
 
 .subHead {
 
+}
+
+
+.backslashRule {
+  color: grey;
+  width: 100%;
 }
 
 .ingredients_box {
