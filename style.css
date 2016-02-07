@@ -37,7 +37,7 @@ footer {
 }
 
 .header_img_right {
-
+  padding-left: 10px;
 }
 
 .subHead {
@@ -54,6 +54,37 @@ footer {
 
 .footertxt {
 
+}
+
+.container {
+  display: flex;
+  /*flex-wrap: wrap;*/
+  /*flex-direction: row;*/
+  justify-content: space-between;
+  flex-flow: row wrap;
+}
+
+.flex {
+  flex: 1;
+}
+
+#logoImg {
+  padding-top: 14px;
+}
+
+#logoTxt {
+  margin: 0px;
+  padding-left: 10px;
+  padding-bottom: 2px;
+  font-size: 2.5em;
+  height: 45px;
+}
+
+#logoSlogan {
+  margin: 0px;
+  font-size: 0.60em;
+  padding-left: 15px;
+  letter-spacing: 2px;
 }
 
 #delicious_sub {
