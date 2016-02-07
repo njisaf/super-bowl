@@ -14,7 +14,11 @@ p {
 }
 
 footer {
-
+  float:none;
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+  padding: 0px
+  font size: 10px
 }
 
 .oswald_700 {
@@ -66,9 +70,9 @@ footer {
 }
 
 .footerhr {
-
 }
 
+}
 .footertxt {
 
 }
