@@ -94,8 +94,8 @@ footer {
   background-color: rgb(188, 122, 88);;
   border: none;
   text-align: center;
-  height: 40px;
-  width: 125px;
+  height: 60px;
+  width: 130px;
 }
 
 .footerhr {
@@ -143,6 +143,16 @@ footer {
 
 #delicious_sub {
 
+}
+
+#byline_text {
+  width: 600px;
+  margin-right: 150px;
+  margin-left: 10px;
+}
+
+#byline_text_sub {
+  font-size: 120%;
 }
 
 .grey {
