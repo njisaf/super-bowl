@@ -16,6 +16,14 @@ p {
   font-family: 'Lora', serif;
 }
 
+li {
+  list-style-type: circle;
+}
+
+.strikeout {
+  text-decoration: line-through;
+}
+
 footer {
   float:none;
   margin: 0px 0px 0px 0px;
@@ -78,7 +86,6 @@ footer {
 
 }
 
-}
 .footertxt {
 
 }
@@ -114,6 +121,14 @@ footer {
   letter-spacing: 2px;
 }
 
+<<<<<<< HEAD
+=======
+#printImg {
+  height: 10px;
+  padding-top: 2px;
+}
+
+>>>>>>> 9b6cf5eef04a18bff2a94dadcf05252d53a682bc
 #delicious_sub {
 
 }
