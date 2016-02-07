@@ -82,6 +82,22 @@ footer {
   font-size: 20px;
 }
 
+<<<<<<< HEAD
+=======
+.byline {
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.button {
+  background-color: rgb(188, 122, 88);;
+  border: none;
+  text-align: center;
+  height: 60px;
+  width: 130px;
+}
+
+>>>>>>> ac59fc6403424bdeb88160905394ba5586beef6c
 .footerhr {
 
 }
@@ -132,3 +148,46 @@ footer {
 #delicious_sub {
 
 }
+<<<<<<< HEAD
+=======
+
+#byline_text {
+  width: 600px;
+  margin-right: 150px;
+  margin-left: 10px;
+}
+
+#byline_text_sub {
+  font-size: 120%;
+}
+
+.grey {
+  color: grey;
+}
+
+.displayFlex {
+  display: flex;
+}
+
+.articleSubTitle {
+  margin: 0;
+  font-size: .8em;
+  letter-spacing: 1px;
+}
+
+.print {
+  padding-left: 5px;
+}
+
+.indent {
+  text-indent: 30px;
+  padding: 5px 0px;
+  line-height: 25px;
+}
+
+figure {
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+>>>>>>> ac59fc6403424bdeb88160905394ba5586beef6c
