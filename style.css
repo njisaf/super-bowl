@@ -47,13 +47,22 @@ footer {
 
 }
 
+
 .backslashRule {
   color: grey;
   width: 100%;
 }
 
+.ingredients_box {
+  background-image: url(images/list-bg.png);
+  width: 50%;
+  padding: 20px 50px 20px 20px;
+  align-content: flex-start;
+}
+
 .ingredients {
   font-family: 'Patrick Hand', cursive;
+  font-size: 20px;
 }
 
 .footerhr {
