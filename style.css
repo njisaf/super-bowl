@@ -140,8 +140,7 @@ footer {
 
 #byline_text {
   width: 600px;
-  margin-right: 150px;
-  margin-left: 10px;
+  margin-left: -30px;
 }
 
 #byline_text_sub {
