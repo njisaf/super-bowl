@@ -9,8 +9,7 @@ header {
 }
 
 h1 {
-  font-size: 2.5em;
-  margin-top: 20px;
+
 }
 
 p {
@@ -26,26 +25,22 @@ li {
 }
 
 footer {
-  float: none;
+  float:none;
   margin: 0px 0px 0px 0px;
   text-align: center;
-  padding: 0px;
-  font-size: 10px;
+  padding: 0px
+  font size: 10px
+  inline-block:
 }
 
 .oswald_700 {
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
-  margin-top: 20px;
-  margin-bottom: 0px;
-  height: 55px;
 }
 
 .oswald_300 {
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
-  font-size: 1em;
-  margin: 0px;
 }
 
 .yellowtail {
@@ -65,17 +60,19 @@ footer {
   padding-top: 25px;
 }
 
+.subHead {
+
+}
+
+
 .backslashRule {
   color: grey;
   width: 100%;
-  font-size: .6em;
-  letter-spacing: -3.5px;
-  padding: 25px 0px;
 }
 
 .ingredients_box {
   background-image: url(images/list-bg.png);
-  background-position: center bottom;
+  width: 80%;
   padding: 20px 50px 20px 20px;
   align-content: flex-start;
 }
@@ -85,6 +82,8 @@ footer {
   font-size: 20px;
 }
 
+<<<<<<< HEAD
+=======
 .byline {
   justify-content: flex-end;
   align-items: center;
@@ -98,7 +97,9 @@ footer {
   width: 130px;
 }
 
+>>>>>>> ac59fc6403424bdeb88160905394ba5586beef6c
 .footerhr {
+
 }
 
 .footertxt {
@@ -136,14 +137,19 @@ footer {
   letter-spacing: 2px;
 }
 
+<<<<<<< HEAD
+=======
 #printImg {
   height: 10px;
   padding-top: 2px;
 }
 
+>>>>>>> 9b6cf5eef04a18bff2a94dadcf05252d53a682bc
 #delicious_sub {
 
 }
+<<<<<<< HEAD
+=======
 
 #byline_text {
   width: 600px;
@@ -183,3 +189,4 @@ figure {
     padding-top: 30px;
     padding-bottom: 10px;
 }
+>>>>>>> ac59fc6403424bdeb88160905394ba5586beef6c
